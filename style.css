@@ -1,0 +1,14 @@
+body {
+    background-color: darkgreen;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    color: white;
+}
+
+h1, h2 {
+    font-size: 40px;
+}
+
+p {
+    font-size: 40px;
+}
