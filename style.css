@@ -1,14 +1,8 @@
 body {
-    background-color: darkgreen;
-    font-family: Arial, sans-serif;
-    text-align: center;
-    color: white;
+    background-color: black; /* Kolor tła strony */
+    color: #00FF00; /* Kolor czcionki (jasnozielony) */
+    font-family: Arial, sans-serif; /* Czcionka */
+    font-size: 14px; /* Wielkość czcionki */
+    text-align: left; /* Brak wyrównania */
 }
 
-h1, h2 {
-    font-size: 40px;
-}
-
-p {
-    font-size: 40px;
-}
